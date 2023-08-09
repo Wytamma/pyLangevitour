@@ -1,4 +1,4 @@
-# Langevitour
+# pyLangevitour
 
 [![PyPI - Version](https://img.shields.io/pypi/v/langevitour.svg)](https://pypi.org/project/langevitour)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/langevitour.svg)](https://pypi.org/project/langevitour)
@@ -54,8 +54,8 @@ tour = LangeviTour(
 tour.write_html("langevitour_plot.html")
 ```
 
-langevitour also works in Jupyter notebooks ([look in the examples folder]()).
+pyLangevitour also works in Jupyter notebooks ([look in the examples folder]()).
 
 ## License
 
-`langevitour` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`pyLangevitour` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
