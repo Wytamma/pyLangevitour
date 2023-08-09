@@ -5,6 +5,10 @@
 
 Python interface for [langevitour](https://github.com/pfh/langevitour/). langevitour is an HTML widget that randomly tours projections of a high-dimensional dataset with an animated scatter-plot.
 
+[![](docs/images/LangeviTour.gif)](https://colab.research.google.com/github/Wytamma/pyLangevitour/blob/main/examples/notebook.ipynb)
+
+For more information see the langevitour [Github repo](https://github.com/pfh/langevitour) or [website](https://logarithmic.net/langevitour/).
+
 ## Installation
 
 ```console
@@ -54,7 +58,9 @@ tour = LangeviTour(
 tour.write_html("langevitour_plot.html")
 ```
 
-pyLangevitour also works in Jupyter notebooks ([look in the examples folder]()).
+pyLangevitour also works in [jupyter notebooks](https://colab.research.google.com/github/Wytamma/pyLangevitour/blob/main/examples/notebook.ipynb).
+
+
 
 ## License
 
